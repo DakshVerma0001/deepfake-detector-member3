@@ -22,4 +22,9 @@ Deepfakes are a growing threat in today’s digital world. This project leverage
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
 </p>  
 
+📫 Contact & Support
+📧 vermadaksh353@gmail.com
+⭐ If you like this project, don’t forget to star the repo!
+
+<p align="center"> Made while sipping tea ☕ and commanding ChatGPT <img src="https://img.shields.io/npm/v/npm.svg?logo=openai"/> :) </p> ```
 
