@@ -26,6 +26,6 @@ Deepfakes are a growing threat in today’s digital world. This project leverage
 📧 vermadaksh353@gmail.com
 ⭐ If you like this project, don’t forget to star the repo!
 
-<p align="center"> Made while sipping tea ☕ and commanding ChatGPT<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="openai" width="50" height="50"/>
+<p align="center"> Made while sipping tea ☕ and commanding ChatGPT :)
  </p> ```
 
